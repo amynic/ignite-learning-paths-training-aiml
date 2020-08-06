@@ -9,7 +9,7 @@ In this exercise you will learn how to use the Form Recognizer service. It is as
 ## What you need
 - [Invoice Training Set](https://globaleventcdn.blob.core.windows.net/assets/aiml/aiml10/data/training.zip)
 
-- [Postman](https://www.getpostman.com/) is used to send requests to the Form Recognizer service REST API. Refer to this [short primer](postman.md) to learn more.
+- [Postman](https://www.getpostman.com/) is used to send requests to the Form Recognizer service REST API. Refer to this [short primer](../postman.md) to learn more.
 
 - Postman Form Recognizer requests [collection](../src/Collections/Form_Recognizer.postman_collection.json).
 
